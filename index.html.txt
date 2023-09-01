@@ -9,6 +9,8 @@
 
 <h1> Welcome to my website </h1>
 
+<h2> Rajana </h2>
+
 <p> This is a sample paragraph </p>
 
 <img src = " image.jpeg">
@@ -16,5 +18,3 @@
 </body>
 
 </html>
-
-
